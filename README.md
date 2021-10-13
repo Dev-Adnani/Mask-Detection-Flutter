@@ -9,6 +9,12 @@
 - A Mask Detector App  !
 - The App's Main Purpose Is To Check Whether The User Has Wore A Mask Or Not !
 
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## ⚙️ Tech-Stack
 The application is built entirely with Flutter. For the detection part, I have made use of tensorflow lite by providing it a model.
 
